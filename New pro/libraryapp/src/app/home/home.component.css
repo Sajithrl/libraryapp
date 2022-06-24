@@ -1,0 +1,17 @@
+.banner{
+    background-image: url(./home.jpg);
+    height: 800px;
+    background-position: center;
+    background-size: cover;
+    
+}
+
+.banner h1{
+    color: white;
+    font-size: 100px;
+    font-weight: bold;
+    top: 20%;
+    left: 58%;
+    position: absolute;
+
+}
